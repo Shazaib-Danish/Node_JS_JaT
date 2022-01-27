@@ -7,7 +7,6 @@ dotenv.config();
 
 //configure express for routes management
 var app = express();
-
 //get the default port
 var PORT = process.env.PORT;
 
