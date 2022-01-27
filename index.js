@@ -17,8 +17,8 @@ var PORT = process.env.PORT;
 */
 
 
-appID="57f45304911d4f86b5dbf533645f6f35" //app id
-appCertificate="670df4c909704996aa15eb4bbcd880fe"  //certificate key
+appID="65257899b2a74d5689f9e596d2848566" //app id
+appCertificate="d5b905576e874d33ab07a85424cc9fdb"  //certificate key
 
 
 /*
